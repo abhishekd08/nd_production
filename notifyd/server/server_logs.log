@@ -1,0 +1,1290 @@
+2019-03-09 14:58:07.745 INFO  sendNotification
+user : abhi
+pass : abhi
+title : server stopped !!!
+body : 
+datetime : Sat Mar 09 2019 14:58:07 GMT+0000 (UTC) 
+2019-03-09 14:58:07.929 INFO  sendNotification Result : fail for abhi
+{"result":"fail","reason":"saveNotificationError"} 
+2019-03-09 14:58:15.677 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-09 14:58:15.682 INFO  getAllNotifications Result : success for abhi 
+2019-03-09 14:58:15.882 INFO  updateToken
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-09 14:58:15.888 INFO  updateToken Result : success for abhi 
+2019-03-09 14:58:18.717 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-09 14:58:18.722 INFO  getAllNotifications Result : success for abhi 
+2019-03-09 14:58:22.363 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-09 14:58:22.366 INFO  getAllNotifications Result : success for abhi 
+2019-03-09 15:04:29.788 INFO  signIn
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-09 15:04:29.871 INFO  signIn Result : success for abhi 
+2019-03-09 15:04:30.447 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-09 15:04:30.454 INFO  getAllNotifications Result : success for abhi 
+2019-03-09 15:04:30.882 INFO  updateToken
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-09 15:04:30.889 INFO  updateToken Result : success for abhi 
+2019-03-09 15:05:24.231 INFO  sendNotification
+user : abhi
+pass : abhi
+title : jhgfjhg 
+body : jhgvhv 
+datetime : jhgvkvk 
+2019-03-09 15:05:24.335 INFO  sendNotification Result : success for abhi
+{"result":"success"} 
+2019-03-09 15:05:33.609 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-09 15:05:33.613 INFO  getAllNotifications Result : success for abhi 
+2019-03-09 15:05:33.641 INFO  updateToken
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-09 15:05:33.646 INFO  updateToken Result : success for abhi 
+2019-03-09 15:06:04.464 INFO  sendNotification
+user : abhi
+pass : abhi
+title : titletitle
+body : bodybody
+datetime : datetime 
+2019-03-09 15:06:04.534 INFO  sendNotification Result : success for abhi
+{"result":"success"} 
+2019-03-09 15:06:06.630 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-09 15:06:06.633 INFO  getAllNotifications Result : success for abhi 
+2019-03-09 15:06:10.561 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-09 15:06:10.565 INFO  getAllNotifications Result : success for abhi 
+2019-03-09 15:06:16.759 INFO  sendNotification
+user : abhi
+pass : abhi
+title : titletitle
+body : bodybody
+datetime : datetime 
+2019-03-09 15:06:16.847 INFO  sendNotification Result : success for abhi
+{"result":"success"} 
+2019-03-09 15:06:21.305 INFO  updateToken
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-09 15:06:21.310 INFO  updateToken Result : success for abhi 
+2019-03-09 15:06:21.312 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-09 15:06:21.314 INFO  getAllNotifications Result : success for abhi 
+2019-03-09 15:44:19.413 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-09 15:44:19.416 INFO  getAllNotifications Result : success for abhi 
+2019-03-09 15:44:19.427 INFO  updateToken
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-09 15:44:19.431 INFO  updateToken Result : success for abhi 
+2019-03-10 04:21:01.083 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 04:21:01.157 INFO  updateToken
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 04:21:01.168 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 04:21:01.189 INFO  updateToken Result : success for abhi 
+2019-03-10 04:21:25.542 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 04:21:25.547 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 04:21:28.907 INFO  updateToken
+title : jhgfjhg 
+body : jhgvhv 
+datetime : jhgvkvk 
+2019-03-10 04:21:28.913 INFO  deleteNotification Result : success for abhi 
+2019-03-10 04:21:29.240 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 04:21:29.244 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 04:21:35.164 INFO  updateToken
+title : title ok
+body : body ok
+datetime : dt ok 
+2019-03-10 04:21:35.169 INFO  deleteNotification Result : success for abhi 
+2019-03-10 04:21:35.174 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 04:21:35.176 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 04:21:39.941 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 04:21:39.944 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 04:21:39.984 INFO  updateToken
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 04:21:39.989 INFO  updateToken Result : success for abhi 
+2019-03-10 04:21:43.407 INFO  updateToken
+title : titletitle
+body : bodybody
+datetime : datetime 
+2019-03-10 04:21:43.412 INFO  deleteNotification Result : success for abhi 
+2019-03-10 04:21:43.453 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 04:21:43.456 INFO  getAllNotifications Result : fail for abhi 
+2019-03-10 04:22:07.424 INFO  signIn
+user : abhi
+pass : bhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 04:22:07.428 INFO  signIn Result : fail for abhi 
+2019-03-10 04:22:12.317 INFO  signIn
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 04:22:12.324 INFO  signIn Result : success for abhi 
+2019-03-10 04:22:12.824 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 04:22:12.827 INFO  getAllNotifications Result : fail for abhi 
+2019-03-10 04:22:13.169 INFO  updateToken
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 04:22:13.174 INFO  updateToken Result : success for abhi 
+2019-03-10 04:32:59.717 INFO  sendNotification
+user : abhi
+pass : abhi
+title : m title
+body : 
+datetime : mdate 
+2019-03-10 04:32:59.844 INFO  sendNotification Result : fail for abhi
+{"result":"fail","reason":"saveNotificationError"} 
+2019-03-10 04:33:24.611 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 04:33:24.615 INFO  getAllNotifications Result : fail for abhi 
+2019-03-10 04:33:34.343 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 04:33:34.346 INFO  getAllNotifications Result : fail for abhi 
+2019-03-10 05:15:32.312 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 05:15:32.315 INFO  getAllNotifications Result : fail for abhi 
+2019-03-10 05:15:34.407 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 05:15:34.411 INFO  getAllNotifications Result : fail for abhi 
+2019-03-10 05:15:37.375 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 05:15:37.378 INFO  getAllNotifications Result : fail for abhi 
+2019-03-10 05:15:37.717 INFO  updateToken
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 05:15:37.722 INFO  updateToken Result : success for abhi 
+2019-03-10 05:16:13.639 INFO  sendNotification
+user : abhi
+pass : abhi
+title : m title
+body : 
+datetime : mdate 
+2019-03-10 05:16:13.726 INFO  sendNotification Result : fail for abhi
+{"result":"fail","reason":"saveNotificationError"} 
+2019-03-10 05:20:23.882 INFO  sendNotification
+user : abhi
+pass : abhi
+title : m title
+body : 
+datetime : mdate 
+2019-03-10 05:20:23.964 INFO  sendNotification Result : fail for abhi
+{"result":"fail","reason":"saveNotificationError"} 
+2019-03-10 05:24:36.755 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 05:24:36.758 INFO  getAllNotifications Result : fail for abhi 
+2019-03-10 05:24:36.882 INFO  updateToken
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 05:24:36.888 INFO  updateToken Result : success for abhi 
+2019-03-10 05:24:46.385 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 05:24:46.389 INFO  getAllNotifications Result : fail for abhi 
+2019-03-10 05:26:51.736 INFO  sendNotification
+user : abhi
+pass : abhi
+title : m title
+body : 
+datetime : mdate 
+2019-03-10 05:26:51.902 INFO  sendNotification Result : fail for abhi
+{"result":"fail","reason":"saveNotificationError"} 
+2019-03-10 05:28:55.634 INFO  sendNotification
+user : abhi
+pass : abhi
+title : m title
+body : 
+datetime : mdate 
+2019-03-10 05:28:55.722 INFO  sendNotification Result : fail for abhi
+{"result":"fail","reason":"saveNotificationError"} 
+2019-03-10 05:30:18.178 INFO  sendNotification
+user : abhi
+pass : abhi
+title : titletitle
+body : bodybody
+datetime : datetime 
+2019-03-10 05:30:18.256 INFO  sendNotification Result : success for abhi
+{"result":"success"} 
+2019-03-10 05:30:28.905 INFO  sendNotification
+user : abhi
+pass : abhi
+title : titletitle
+body : m body
+datetime : datetime 
+2019-03-10 05:30:28.983 INFO  sendNotification Result : success for abhi
+{"result":"success"} 
+2019-03-10 05:30:41.816 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 05:30:41.820 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 05:30:41.865 INFO  updateToken
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 05:30:41.870 INFO  updateToken Result : success for abhi 
+2019-03-10 05:30:59.931 INFO  sendNotification
+user : abhi
+pass : abhi
+title : m title
+body : m body
+datetime : m date 
+2019-03-10 05:31:00.019 INFO  sendNotification Result : success for abhi
+{"result":"success"} 
+2019-03-10 05:31:09.141 INFO  sendNotification
+user : abhi
+pass : abhi
+title : m title
+body : m body
+datetime : m date 
+2019-03-10 05:31:09.223 INFO  sendNotification Result : success for abhi
+{"result":"success"} 
+2019-03-10 05:39:00.410 INFO  sendNotification
+user : abhi
+pass : abhi
+title : m title
+body : 
+datetime : mdate 
+2019-03-10 05:39:00.484 INFO  sendNotification Result : fail for abhi
+{"result":"fail","reason":"saveNotificationError"} 
+2019-03-10 05:39:46.602 INFO  sendNotification
+user : abhi
+pass : abhi
+title : m title
+body : 
+datetime : mdate 
+2019-03-10 05:39:46.758 INFO  sendNotification Result : fail for abhi
+{"result":"fail","reason":"saveNotificationError"} 
+2019-03-10 05:42:09.553 INFO  sendNotification
+user : abhi
+pass : abhi
+title : m title
+body : mbody
+datetime : mdate 
+2019-03-10 05:42:09.640 INFO  sendNotification Result : success for abhi
+{"result":"success"} 
+2019-03-10 05:42:18.447 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 05:42:18.451 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 05:42:18.452 INFO  updateToken
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 05:42:18.457 INFO  updateToken Result : success for abhi 
+2019-03-10 05:42:27.475 INFO  sendNotification
+user : abhi
+pass : abhi
+title : m title
+body : mbody
+datetime : mdate 
+2019-03-10 05:42:27.562 INFO  sendNotification Result : success for abhi
+{"result":"success"} 
+2019-03-10 05:43:34.181 INFO  sendNotification
+user : abhi
+pass : abhi
+title : m title
+body : mbody
+datetime : mdate 
+2019-03-10 05:43:34.275 INFO  sendNotification Result : success for abhi
+{"result":"success"} 
+2019-03-10 05:44:58.210 INFO  sendNotification
+user : abhi
+pass : abhi
+title : m title
+body : mbody
+datetime : mdate 
+2019-03-10 05:44:58.296 INFO  sendNotification Result : success for abhi
+{"result":"success"} 
+2019-03-10 05:48:00.792 INFO  sendNotification
+user : abhi
+pass : abhi
+title : this is title
+body : mbody ok it is a body of the notifyd app.
+datetime : this is datetime 
+2019-03-10 05:48:00.869 INFO  sendNotification Result : success for abhi
+{"result":"success"} 
+2019-03-10 05:48:06.952 INFO  updateToken
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 05:48:06.957 INFO  updateToken Result : success for abhi 
+2019-03-10 05:48:07.758 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 05:48:07.760 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 05:51:27.043 INFO  sendNotification
+user : abhi
+pass : abhi
+title : this is title
+body : mbody ok it is a body of the notifyd app.
+datetime : this is datetime 
+2019-03-10 05:51:27.220 INFO  sendNotification Result : success for abhi
+{"result":"success"} 
+2019-03-10 08:57:53.984 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 08:57:53.991 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 08:57:53.993 INFO  updateToken
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 08:57:53.999 INFO  updateToken Result : success for abhi 
+2019-03-10 08:58:11.712 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 08:58:11.715 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 08:58:39.470 INFO  sendNotification
+user : abhi
+pass : abhi
+title : this is title
+body : mbody ok it is a body of the notifyd app.
+datetime : this is datetime 
+2019-03-10 08:58:39.553 INFO  sendNotification Result : success for abhi
+{"result":"success"} 
+2019-03-10 08:58:47.994 INFO  sendNotification
+user : abhi
+pass : abhi
+title : this is title
+body : mbody ok it is a body of the notifyd app.
+datetime : this is datetime 
+2019-03-10 08:58:48.075 INFO  sendNotification Result : success for abhi
+{"result":"success"} 
+2019-03-10 08:58:52.574 INFO  sendNotification
+user : abhi
+pass : abhi
+title : this is title
+body : mbody ok it is a body of the notifyd app.
+datetime : this is datetime 
+2019-03-10 08:58:52.664 INFO  sendNotification Result : success for abhi
+{"result":"success"} 
+2019-03-10 08:58:55.802 INFO  sendNotification
+user : abhi
+pass : abhi
+title : this is title
+body : mbody ok it is a body of the notifyd app.
+datetime : this is datetime 
+2019-03-10 08:58:55.916 INFO  sendNotification Result : success for abhi
+{"result":"success"} 
+2019-03-10 09:02:29.160 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 09:02:29.162 INFO  updateToken
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 09:02:29.166 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 09:02:29.168 INFO  updateToken Result : success for abhi 
+2019-03-10 09:07:51.722 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 09:07:51.726 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 09:07:51.730 INFO  updateToken
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 09:07:51.734 INFO  updateToken Result : success for abhi 
+2019-03-10 09:17:35.613 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 09:17:35.616 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 09:17:35.708 INFO  updateToken
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 09:17:35.713 INFO  updateToken Result : success for abhi 
+2019-03-10 09:17:51.248 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 09:17:51.252 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 09:17:51.255 INFO  updateToken
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 09:17:51.260 INFO  updateToken Result : success for abhi 
+2019-03-10 09:18:00.400 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 09:18:00.404 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 09:20:40.238 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 09:20:40.241 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 09:20:40.451 INFO  updateToken
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 09:20:40.456 INFO  updateToken Result : success for abhi 
+2019-03-10 09:54:06.041 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 09:54:06.044 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 09:54:06.283 INFO  updateToken
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 09:54:06.288 INFO  updateToken Result : success for abhi 
+2019-03-10 09:54:10.737 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 09:54:10.740 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 09:54:34.956 INFO  signIn
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 09:54:34.963 INFO  signIn Result : success for abhi 
+2019-03-10 09:54:35.428 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 09:54:35.432 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 09:54:35.884 INFO  updateToken
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 09:54:35.889 INFO  updateToken Result : success for abhi 
+2019-03-10 09:58:31.906 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 09:58:31.910 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:05:27.261 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:05:27.265 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:10:24.117 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:10:24.120 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:10:24.218 INFO  updateToken
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 10:10:24.224 INFO  updateToken Result : success for abhi 
+2019-03-10 10:20:30.751 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:20:30.755 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:20:30.788 INFO  updateToken
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 10:20:30.793 INFO  updateToken Result : success for abhi 
+2019-03-10 10:21:06.596 INFO  registerUser
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 10:21:06.600 INFO  registerUser Result : fail for abhi 
+2019-03-10 10:21:14.663 INFO  signIn
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 10:21:14.669 INFO  signIn Result : success for abhi 
+2019-03-10 10:21:15.437 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:21:15.440 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:21:15.814 INFO  updateToken
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 10:21:15.820 INFO  updateToken Result : success for abhi 
+2019-03-10 10:21:25.171 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:21:25.174 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:25:38.258 INFO  sendNotification
+user : abhi
+pass : abhi
+title : Notifyd Server Error: Service reStarted
+body : CausedBy: 
+datetime : 08-03-2019 21:45:20 
+2019-03-10 10:25:38.346 INFO  sendNotification Result : success for abhi
+{"result":"success"} 
+2019-03-10 10:25:48.140 INFO  sendNotification
+user : abhi
+pass : abhi
+title : Notifyd Server Error: Service reStarted
+body : CausedBy: 
+datetime : 08-03-2019 21:45:20 
+2019-03-10 10:25:48.241 INFO  sendNotification Result : success for abhi
+{"result":"success"} 
+2019-03-10 10:27:40.002 INFO  sendNotification
+user : abhi
+pass : abhi
+title : Notifyd Server Error: Service reStarted
+body : ReferenceError: x is not definedat temp (/home/abhishek/Projects/node_cli/notifyd/temp/temp.js:6:5)at Object.<anonymous> (/home/abhishek/Projects/node_cli/notifyd/temp/temp.js:8:1)at Module._compile (internal/modules/cjs/loader.js:734:30)at Object.Module._extensions..js (internal/modules/cjs/loader.js:745:10)at Module.load (internal/modules/cjs/loader.js:626:32)at tryModuleLoad (internal/modules/cjs/loader.js:566:12)at Function.Module._load (internal/modules/cjs/loader.js:558:3)at Function.Module.runMain (internal/modules/cjs/loader.js:797:12)at executeUserCode (internal/bootstrap/node.js:526:15)at startMainThreadExecution (internal/bootstrap/node.js:439:3)
+datetime : 08-03-2019 21:45:20 
+2019-03-10 10:27:40.099 INFO  sendNotification Result : success for abhi
+{"result":"success"} 
+2019-03-10 10:27:49.022 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:27:49.026 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:28:14.085 INFO  sendNotification
+user : abhi
+pass : abhi
+title : Notifyd Server Error: Service reStarted
+body : ReferenceError: x is not defined
+at temp (/home/abhishek/Projects/node_cli/notifyd/temp/temp.js:6:5)
+at Object.<anonymous> (/home/abhishek/Projects/node_cli/notifyd/temp/temp.js:8:1)
+at Module._compile (internal/modules/cjs/loader.js:734:30)
+at Object.Module._extensions..js (internal/modules/cjs/loader.js:745:10)
+at Module.load (internal/modules/cjs/loader.js:626:32)
+at tryModuleLoad (internal/modules/cjs/loader.js:566:12)
+at Function.Module._load (internal/modules/cjs/loader.js:558:3)
+at Function.Module.runMain (internal/modules/cjs/loader.js:797:12)
+at executeUserCode (internal/bootstrap/node.js:526:15)
+at startMainThreadExecution (internal/bootstrap/node.js:439:3)
+datetime : 08-03-2019 21:45:20 
+2019-03-10 10:28:14.166 INFO  sendNotification Result : success for abhi
+{"result":"success"} 
+2019-03-10 10:29:40.327 INFO  sendNotification
+user : abhi
+pass : abhi
+title : Download successful !
+body : Download service exited with exit-code 0
+datetime : m date 
+2019-03-10 10:29:40.406 INFO  sendNotification Result : success for abhi
+{"result":"success"} 
+2019-03-10 10:29:41.563 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:29:41.566 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:29:48.525 INFO  updateToken
+title : Download successful !
+body : Download service exited with exit-code 0
+datetime : m date 
+2019-03-10 10:29:48.531 INFO  deleteNotification Result : success for abhi 
+2019-03-10 10:29:48.564 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:29:48.567 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:30:16.981 INFO  sendNotification
+user : abhi
+pass : abhi
+title : Download successful !
+body : Download service exited with exit-code 0
+datetime : 10-03-2019 04:51:45 
+2019-03-10 10:30:17.076 INFO  sendNotification Result : success for abhi
+{"result":"success"} 
+2019-03-10 10:30:40.022 INFO  sendNotification
+user : abhi
+pass : abhi
+title : Download successful !
+body : Download service exited with exit-code 0
+datetime : 10-03-2019 04:51:45 
+2019-03-10 10:30:40.095 INFO  sendNotification Result : success for abhi
+{"result":"success"} 
+2019-03-10 10:30:53.671 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:30:53.675 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:30:58.521 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:30:58.525 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:31:00.754 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:31:00.758 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:31:06.451 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:31:06.454 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:31:10.518 INFO  updateToken
+title : Download successful !
+body : Download service exited with exit-code 0
+datetime : 10-03-2019 04:51:45 
+2019-03-10 10:31:10.527 INFO  deleteNotification Result : success for abhi 
+2019-03-10 10:31:10.871 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:31:10.875 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:31:19.358 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:31:19.362 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:31:25.489 INFO  sendNotification
+user : abhi
+pass : abhi
+title : Download successful !
+body : Download service exited with exit-code 0
+datetime : 10-03-2019 04:51:45 
+2019-03-10 10:31:25.560 INFO  sendNotification Result : success for abhi
+{"result":"success"} 
+2019-03-10 10:31:58.283 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:31:58.287 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:32:05.541 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:32:05.545 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:33:32.985 INFO  sendNotification
+user : abhi
+pass : abhi
+title : Notifyd Service Error !
+body : 
+datetime : 08-03-2019 15:01:42 
+2019-03-10 10:33:33.064 INFO  sendNotification Result : success for abhi
+{"result":"success"} 
+2019-03-10 10:33:45.788 INFO  updateToken
+title : Notifyd Service Error !
+body : 
+datetime : 08-03-2019 15:01:42 
+2019-03-10 10:33:45.798 INFO  deleteNotification Result : success for abhi 
+2019-03-10 10:33:45.823 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:33:45.830 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:34:17.215 INFO  sendNotification
+user : abhi
+pass : abhi
+title : Notifyd Service Error !
+body : 
+datetime : 08-03-2019 15:01:42 
+2019-03-10 10:34:17.312 INFO  sendNotification Result : success for abhi
+{"result":"success"} 
+2019-03-10 10:34:25.108 INFO  updateToken
+title : Notifyd Service Error !
+body : 
+datetime : 08-03-2019 15:01:42 
+2019-03-10 10:34:25.113 INFO  deleteNotification Result : success for abhi 
+2019-03-10 10:34:25.115 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:34:25.122 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:35:12.629 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:35:12.633 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:35:31.981 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:35:31.984 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:35:31.988 INFO  updateToken
+title : Notifyd Server Error: Service reStarted
+body : ReferenceError: x is not defined
+at temp (/home/abhishek/Projects/node_cli/notifyd/temp/temp.js:6:5)
+at Object.<anonymous> (/home/abhishek/Projects/node_cli/notifyd/temp/temp.js:8:1)
+at Module._compile (internal/modules/cjs/loader.js:734:30)
+at Object.Module._extensions..js (internal/modules/cjs/loader.js:745:10)
+at Module.load (internal/modules/cjs/loader.js:626:32)
+at tryModuleLoad (internal/modules/cjs/loader.js:566:12)
+at Function.Module._load (internal/modules/cjs/loader.js:558:3)
+at Function.Module.runMain (internal/modules/cjs/loader.js:797:12)
+at executeUserCode (internal/bootstrap/node.js:526:15)
+at startMainThreadExecution (internal/bootstrap/node.js:439:3)
+datetime : 08-03-2019 21:45:20 
+2019-03-10 10:35:31.995 INFO  deleteNotification Result : success for abhi 
+2019-03-10 10:35:36.489 INFO  updateToken
+title : Notifyd Server Error: Service reStarted
+body : ReferenceError: x is not definedat temp (/home/abhishek/Projects/node_cli/notifyd/temp/temp.js:6:5)at Object.<anonymous> (/home/abhishek/Projects/node_cli/notifyd/temp/temp.js:8:1)at Module._compile (internal/modules/cjs/loader.js:734:30)at Object.Module._extensions..js (internal/modules/cjs/loader.js:745:10)at Module.load (internal/modules/cjs/loader.js:626:32)at tryModuleLoad (internal/modules/cjs/loader.js:566:12)at Function.Module._load (internal/modules/cjs/loader.js:558:3)at Function.Module.runMain (internal/modules/cjs/loader.js:797:12)at executeUserCode (internal/bootstrap/node.js:526:15)at startMainThreadExecution (internal/bootstrap/node.js:439:3)
+datetime : 08-03-2019 21:45:20 
+2019-03-10 10:35:36.494 INFO  deleteNotification Result : success for abhi 
+2019-03-10 10:35:36.539 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:35:36.543 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:35:39.584 INFO  updateToken
+title : Notifyd Server Error: Service reStarted
+body : CausedBy: 
+datetime : 08-03-2019 21:45:20 
+2019-03-10 10:35:39.590 INFO  deleteNotification Result : success for abhi 
+2019-03-10 10:35:39.645 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:35:39.648 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:35:42.371 INFO  updateToken
+title : this is title
+body : mbody ok it is a body of the notifyd app.
+datetime : this is datetime 
+2019-03-10 10:35:42.376 INFO  deleteNotification Result : success for abhi 
+2019-03-10 10:35:42.411 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:35:42.414 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:35:44.685 INFO  updateToken
+title : m title
+body : mbody
+datetime : mdate 
+2019-03-10 10:35:44.690 INFO  deleteNotification Result : success for abhi 
+2019-03-10 10:35:44.764 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:35:44.767 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:35:47.230 INFO  updateToken
+title : m title
+body : m body
+datetime : m date 
+2019-03-10 10:35:47.236 INFO  deleteNotification Result : success for abhi 
+2019-03-10 10:35:47.275 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:35:47.278 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:35:49.820 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:35:49.823 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:35:49.826 INFO  updateToken
+title : titletitle
+body : m body
+datetime : datetime 
+2019-03-10 10:35:49.831 INFO  deleteNotification Result : success for abhi 
+2019-03-10 10:35:52.337 INFO  updateToken
+title : titletitle
+body : m body
+datetime : datetime 
+2019-03-10 10:35:52.340 INFO  deleteNotification Result : success for abhi 
+2019-03-10 10:35:52.388 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:35:52.391 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:35:54.729 INFO  updateToken
+title : titletitle
+body : bodybody
+datetime : datetime 
+2019-03-10 10:35:54.734 INFO  deleteNotification Result : success for abhi 
+2019-03-10 10:35:54.759 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:35:54.761 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:37:07.104 INFO  sendNotification
+user : abhi
+pass : abhi
+title : Notifyd Service Error !
+body : ReferenceError: x is not defined
+at temp (/home/abhishek/Projects/node_cli/notifyd/temp/temp.js:5:1)
+at Object.<anonymous> (/home/abhishek/Projects/node_cli/notifyd/temp/temp.js:12:1)
+at Module._compile (internal/modules/cjs/loader.js:734:30)
+at Object.Module._extensions..js (internal/modules/cjs/loader.js:745:10)
+at Module.load (internal/modules/cjs/loader.js:626:32)
+at tryModuleLoad (internal/modules/cjs/loader.js:566:12)
+at Function.Module._load (internal/modules/cjs/loader.js:558:3)
+at Function.Module.runMain (internal/modules/cjs/loader.js:797:12)
+at executeUserCode (internal/bootstrap/node.js:526:15)
+at startMainThreadExecution (internal/bootstrap/node.js:439:3)
+datetime : 08-03-2019 15:01:42 
+2019-03-10 10:37:07.193 INFO  sendNotification Result : success for abhi
+{"result":"success"} 
+2019-03-10 10:39:15.216 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:39:15.219 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:39:21.365 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:39:21.369 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:39:21.370 INFO  updateToken
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 10:39:21.374 INFO  updateToken Result : success for abhi 
+2019-03-10 10:39:25.543 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:39:25.546 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:39:25.552 INFO  updateToken
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 10:39:25.557 INFO  updateToken Result : success for abhi 
+2019-03-10 10:41:54.751 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:41:54.755 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:41:54.799 INFO  updateToken
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 10:41:54.803 INFO  updateToken Result : success for abhi 
+2019-03-10 10:42:11.463 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:42:11.466 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:42:22.237 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-10 10:42:22.245 INFO  getAllNotifications Result : success for abhi 
+2019-03-10 10:42:22.303 INFO  updateToken
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 10:42:22.308 INFO  updateToken Result : success for abhi 
+2019-03-10 10:42:41.357 INFO  signIn
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 10:42:41.364 INFO  signIn Result : success for abhi 
+2019-03-10 10:43:40.281 INFO  registerUser
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 10:43:40.284 INFO  registerUser Result : fail for abhi 
+2019-03-10 10:44:35.444 INFO  registerUser
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 10:44:35.447 INFO  registerUser Result : fail for abhi 
+2019-03-10 10:44:45.980 INFO  signIn
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 10:44:45.986 INFO  signIn Result : success for abhi 
+2019-03-10 18:32:48.103 INFO  signIn
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-10 18:32:48.230 INFO  signIn Result : success for abhi 
+2019-03-12 11:30:13.145 INFO  registerUser
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-12 11:30:13.150 INFO  registerUser Result : fail for abhi 
+2019-03-12 11:31:51.666 INFO  registerUser
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-12 11:31:51.671 INFO  registerUser Result : fail for abhi 
+2019-03-12 11:34:44.281 INFO  registerUser
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-12 11:34:44.284 INFO  registerUser Result : fail for abhi 
+2019-03-12 11:41:49.370 INFO  registerUser
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-12 11:41:49.373 INFO  registerUser Result : fail for abhi 
+2019-03-12 11:42:53.050 INFO  registerUser
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-12 11:42:53.053 INFO  registerUser Result : fail for abhi 
+2019-03-12 11:44:24.068 INFO  registerUser
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-12 11:44:24.071 INFO  registerUser Result : fail for abhi 
+2019-03-12 11:46:32.698 INFO  registerUser
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-12 11:46:32.701 INFO  registerUser Result : fail for abhi 
+2019-03-12 11:46:40.476 INFO  signIn
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-12 11:46:40.482 INFO  signIn Result : success for abhi 
+2019-03-12 11:46:42.058 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-12 11:46:42.062 INFO  getAllNotifications Result : success for abhi 
+2019-03-12 11:46:42.828 INFO  updateToken
+user : abhi
+pass : abhi
+token : eP58nY3kHvg:APA91bHUo06O_W_wp6c6sNnhT8GKkU1F4LUCpoF-v2Dzkd63uhrGG7X43Yjko4wj-UjKR2h53GuQBa_5uDCi77WUHkH0UsCntAgwYa85Y1zGT8xe6gDGzAEbUkfwzJl5LbRyzSb2xSJE 
+2019-03-12 11:46:42.834 INFO  updateToken Result : success for abhi 
+2019-03-12 12:00:34.940 INFO  registerUser
+user : abhi
+pass : abhi
+token : czve6H1E8_Q:APA91bERcW2rYGzJbC_3SyrQ7se6R4-fP7ITqApKIJuA0409qoDnE5ld6dQItACrLYctW_2DvMzsCl5GGpW6saUl2_IqlBQcMaKokAx2tXN7MDD2DEs7mJtSW8EPZHPo57okepCe9vE6 
+2019-03-12 12:00:34.943 INFO  registerUser Result : fail for abhi 
+2019-03-12 12:00:40.776 INFO  registerUser
+user : abhi
+pass : shek
+token : czve6H1E8_Q:APA91bERcW2rYGzJbC_3SyrQ7se6R4-fP7ITqApKIJuA0409qoDnE5ld6dQItACrLYctW_2DvMzsCl5GGpW6saUl2_IqlBQcMaKokAx2tXN7MDD2DEs7mJtSW8EPZHPo57okepCe9vE6 
+2019-03-12 12:00:40.779 INFO  registerUser Result : fail for abhi 
+2019-03-12 12:00:46.984 INFO  registerUser
+user : abhishek
+pass : deshlande
+token : czve6H1E8_Q:APA91bERcW2rYGzJbC_3SyrQ7se6R4-fP7ITqApKIJuA0409qoDnE5ld6dQItACrLYctW_2DvMzsCl5GGpW6saUl2_IqlBQcMaKokAx2tXN7MDD2DEs7mJtSW8EPZHPo57okepCe9vE6 
+2019-03-12 12:00:46.990 INFO  registerUser Result : success for abhishek 
+2019-03-12 12:00:47.439 INFO  getAllNotifications
+user : abhishek
+pass : deshlande 
+2019-03-12 12:00:47.442 INFO  getAllNotifications Result : fail for abhishek 
+2019-03-12 12:00:47.727 INFO  updateToken
+user : abhishek
+pass : deshlande
+token : czve6H1E8_Q:APA91bERcW2rYGzJbC_3SyrQ7se6R4-fP7ITqApKIJuA0409qoDnE5ld6dQItACrLYctW_2DvMzsCl5GGpW6saUl2_IqlBQcMaKokAx2tXN7MDD2DEs7mJtSW8EPZHPo57okepCe9vE6 
+2019-03-12 12:00:47.732 INFO  updateToken Result : success for abhishek 
+2019-03-12 12:00:55.921 INFO  signIn
+user : abhishek
+pass : deshlande
+token : czve6H1E8_Q:APA91bERcW2rYGzJbC_3SyrQ7se6R4-fP7ITqApKIJuA0409qoDnE5ld6dQItACrLYctW_2DvMzsCl5GGpW6saUl2_IqlBQcMaKokAx2tXN7MDD2DEs7mJtSW8EPZHPo57okepCe9vE6 
+2019-03-12 12:00:55.930 INFO  signIn Result : success for abhishek 
+2019-03-12 12:00:56.289 INFO  getAllNotifications
+user : abhishek
+pass : deshlande 
+2019-03-12 12:00:56.292 INFO  getAllNotifications Result : fail for abhishek 
+2019-03-12 12:00:56.650 INFO  updateToken
+user : abhishek
+pass : deshlande
+token : czve6H1E8_Q:APA91bERcW2rYGzJbC_3SyrQ7se6R4-fP7ITqApKIJuA0409qoDnE5ld6dQItACrLYctW_2DvMzsCl5GGpW6saUl2_IqlBQcMaKokAx2tXN7MDD2DEs7mJtSW8EPZHPo57okepCe9vE6 
+2019-03-12 12:00:56.654 INFO  updateToken Result : success for abhishek 
+2019-03-12 12:01:05.470 INFO  registerUser
+user : abhi
+pass : abhi
+token : czve6H1E8_Q:APA91bERcW2rYGzJbC_3SyrQ7se6R4-fP7ITqApKIJuA0409qoDnE5ld6dQItACrLYctW_2DvMzsCl5GGpW6saUl2_IqlBQcMaKokAx2tXN7MDD2DEs7mJtSW8EPZHPo57okepCe9vE6 
+2019-03-12 12:01:05.473 INFO  registerUser Result : fail for abhi 
+2019-03-12 12:01:12.513 INFO  signIn
+user : abhi
+pass : abhi
+token : czve6H1E8_Q:APA91bERcW2rYGzJbC_3SyrQ7se6R4-fP7ITqApKIJuA0409qoDnE5ld6dQItACrLYctW_2DvMzsCl5GGpW6saUl2_IqlBQcMaKokAx2tXN7MDD2DEs7mJtSW8EPZHPo57okepCe9vE6 
+2019-03-12 12:01:12.518 INFO  signIn Result : success for abhi 
+2019-03-12 12:01:12.930 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-12 12:01:12.933 INFO  getAllNotifications Result : success for abhi 
+2019-03-12 12:01:13.342 INFO  updateToken
+user : abhi
+pass : abhi
+token : czve6H1E8_Q:APA91bERcW2rYGzJbC_3SyrQ7se6R4-fP7ITqApKIJuA0409qoDnE5ld6dQItACrLYctW_2DvMzsCl5GGpW6saUl2_IqlBQcMaKokAx2tXN7MDD2DEs7mJtSW8EPZHPo57okepCe9vE6 
+2019-03-12 12:01:13.348 INFO  updateToken Result : success for abhi 
+2019-03-12 12:01:20.307 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-12 12:01:20.311 INFO  getAllNotifications Result : success for abhi 
+2019-03-12 12:03:13.763 INFO  registerUser
+user : abhi
+pass : abhi
+token : czve6H1E8_Q:APA91bERcW2rYGzJbC_3SyrQ7se6R4-fP7ITqApKIJuA0409qoDnE5ld6dQItACrLYctW_2DvMzsCl5GGpW6saUl2_IqlBQcMaKokAx2tXN7MDD2DEs7mJtSW8EPZHPo57okepCe9vE6 
+2019-03-12 12:03:13.766 INFO  registerUser Result : fail for abhi 
+2019-03-12 12:03:22.151 INFO  signIn
+user : abhi
+pass : abhi
+token : czve6H1E8_Q:APA91bERcW2rYGzJbC_3SyrQ7se6R4-fP7ITqApKIJuA0409qoDnE5ld6dQItACrLYctW_2DvMzsCl5GGpW6saUl2_IqlBQcMaKokAx2tXN7MDD2DEs7mJtSW8EPZHPo57okepCe9vE6 
+2019-03-12 12:03:22.156 INFO  signIn Result : success for abhi 
+2019-03-12 12:03:22.573 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-12 12:03:22.576 INFO  getAllNotifications Result : success for abhi 
+2019-03-12 12:03:22.978 INFO  updateToken
+user : abhi
+pass : abhi
+token : czve6H1E8_Q:APA91bERcW2rYGzJbC_3SyrQ7se6R4-fP7ITqApKIJuA0409qoDnE5ld6dQItACrLYctW_2DvMzsCl5GGpW6saUl2_IqlBQcMaKokAx2tXN7MDD2DEs7mJtSW8EPZHPo57okepCe9vE6 
+2019-03-12 12:03:22.983 INFO  updateToken Result : success for abhi 
+2019-03-12 12:29:19.377 INFO  updateToken
+user : abhi
+pass : abhi
+token : czve6H1E8_Q:APA91bERcW2rYGzJbC_3SyrQ7se6R4-fP7ITqApKIJuA0409qoDnE5ld6dQItACrLYctW_2DvMzsCl5GGpW6saUl2_IqlBQcMaKokAx2tXN7MDD2DEs7mJtSW8EPZHPo57okepCe9vE6 
+2019-03-12 12:29:19.382 INFO  updateToken Result : success for abhi 
+2019-03-12 12:29:19.384 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-12 12:29:19.387 INFO  getAllNotifications Result : success for abhi 
+2019-03-12 12:29:20.646 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-12 12:29:20.650 INFO  getAllNotifications Result : success for abhi 
+2019-03-12 14:29:01.056 INFO  signIn
+user : text
+pass : text
+token : fzQE4wJTHkU:APA91bHyKYMdIWHqSL2uZPWv5vnZ7VDgochPH1jynRFYfJSxPXHGCg4L6t_yXPcQwF6zyQQSZ7Q6F0abyEmMydCHsGUkjxKX_ZDHiogxn7NZR_OoWUlCYSnF-JMF3r8R6ep8tTVdN_Js 
+2019-03-12 14:29:01.059 INFO  signIn Result : fail for text 
+2019-03-12 14:29:17.551 INFO  signIn
+user : text
+pass : text
+token : f3yLNHz4cVw:APA91bFGy7en1JTzeJnvZdZmoNTF6YcJZjhmb6gymPkqLRePtDjuaHWOGuVeE9D4HmoS8dBpBaTFGHz_eU8DhE3pgcD54_dWdeohtyiIWk9zkildky8hr2RARJR42JvXgyBcoIdMKH7k 
+2019-03-12 14:29:17.554 INFO  signIn Result : fail for text 
+2019-03-12 14:29:26.679 INFO  registerUser
+user : text
+pass : text
+token : f3yLNHz4cVw:APA91bFGy7en1JTzeJnvZdZmoNTF6YcJZjhmb6gymPkqLRePtDjuaHWOGuVeE9D4HmoS8dBpBaTFGHz_eU8DhE3pgcD54_dWdeohtyiIWk9zkildky8hr2RARJR42JvXgyBcoIdMKH7k 
+2019-03-12 14:29:26.686 INFO  registerUser Result : success for text 
+2019-03-12 14:29:26.853 INFO  getAllNotifications
+user : text
+pass : text 
+2019-03-12 14:29:26.856 INFO  getAllNotifications Result : fail for text 
+2019-03-12 14:29:26.891 INFO  updateToken
+user : text
+pass : text
+token : f3yLNHz4cVw:APA91bFGy7en1JTzeJnvZdZmoNTF6YcJZjhmb6gymPkqLRePtDjuaHWOGuVeE9D4HmoS8dBpBaTFGHz_eU8DhE3pgcD54_dWdeohtyiIWk9zkildky8hr2RARJR42JvXgyBcoIdMKH7k 
+2019-03-12 14:29:26.896 INFO  updateToken Result : success for text 
+2019-03-12 14:29:28.435 INFO  getAllNotifications
+user : text
+pass : text 
+2019-03-12 14:29:28.439 INFO  getAllNotifications Result : fail for text 
+2019-03-12 15:34:11.938 INFO  registerUser
+user : abhi
+pass : abhi
+token : evNtpBa676A:APA91bGDZEB4HG1OjVGbLHEA4Bj3OtvVjHH7h2fi-FtA_HP0nHShjrF6C2160ybDK0b3eVKC3BURGbFPEbuypOhYJXXMTM7T_vL4h2mKnzLINDpyG9bSahxxJOkHxHLv_ytmNnWgJ8jb 
+2019-03-12 15:34:11.942 INFO  registerUser Result : fail for abhi 
+2019-03-12 15:34:18.641 INFO  signIn
+user : abhi
+pass : abhi
+token : evNtpBa676A:APA91bGDZEB4HG1OjVGbLHEA4Bj3OtvVjHH7h2fi-FtA_HP0nHShjrF6C2160ybDK0b3eVKC3BURGbFPEbuypOhYJXXMTM7T_vL4h2mKnzLINDpyG9bSahxxJOkHxHLv_ytmNnWgJ8jb 
+2019-03-12 15:34:18.646 INFO  signIn Result : success for abhi 
+2019-03-12 15:34:19.114 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-12 15:34:19.117 INFO  getAllNotifications Result : success for abhi 
+2019-03-12 15:34:19.391 INFO  updateToken
+user : abhi
+pass : abhi
+token : evNtpBa676A:APA91bGDZEB4HG1OjVGbLHEA4Bj3OtvVjHH7h2fi-FtA_HP0nHShjrF6C2160ybDK0b3eVKC3BURGbFPEbuypOhYJXXMTM7T_vL4h2mKnzLINDpyG9bSahxxJOkHxHLv_ytmNnWgJ8jb 
+2019-03-12 15:34:19.396 INFO  updateToken Result : success for abhi 
+2019-03-12 15:34:36.342 INFO  updateToken
+user : abhi
+pass : abhi
+token : evNtpBa676A:APA91bGDZEB4HG1OjVGbLHEA4Bj3OtvVjHH7h2fi-FtA_HP0nHShjrF6C2160ybDK0b3eVKC3BURGbFPEbuypOhYJXXMTM7T_vL4h2mKnzLINDpyG9bSahxxJOkHxHLv_ytmNnWgJ8jb 
+2019-03-12 15:34:36.347 INFO  updateToken Result : success for abhi 
+2019-03-12 15:34:36.349 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-12 15:34:36.351 INFO  getAllNotifications Result : success for abhi 
+2019-03-12 15:34:40.001 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-12 15:34:40.005 INFO  getAllNotifications Result : success for abhi 
+2019-03-12 15:35:01.542 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-12 15:35:01.546 INFO  getAllNotifications Result : success for abhi 
+2019-03-12 15:36:05.130 INFO  updateToken
+user : abhi
+pass : abhi
+token : evNtpBa676A:APA91bGDZEB4HG1OjVGbLHEA4Bj3OtvVjHH7h2fi-FtA_HP0nHShjrF6C2160ybDK0b3eVKC3BURGbFPEbuypOhYJXXMTM7T_vL4h2mKnzLINDpyG9bSahxxJOkHxHLv_ytmNnWgJ8jb 
+2019-03-12 15:36:05.134 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-12 15:36:05.137 INFO  getAllNotifications Result : success for abhi 
+2019-03-12 15:36:05.138 INFO  updateToken Result : success for abhi 
+2019-03-12 15:37:04.942 INFO  signIn
+user : abhi
+pass : abhi
+token : evNtpBa676A:APA91bGDZEB4HG1OjVGbLHEA4Bj3OtvVjHH7h2fi-FtA_HP0nHShjrF6C2160ybDK0b3eVKC3BURGbFPEbuypOhYJXXMTM7T_vL4h2mKnzLINDpyG9bSahxxJOkHxHLv_ytmNnWgJ8jb 
+2019-03-12 15:37:04.947 INFO  signIn Result : success for abhi 
+2019-03-12 15:37:05.515 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-12 15:37:05.518 INFO  getAllNotifications Result : success for abhi 
+2019-03-12 15:37:06.104 INFO  updateToken
+user : abhi
+pass : abhi
+token : evNtpBa676A:APA91bGDZEB4HG1OjVGbLHEA4Bj3OtvVjHH7h2fi-FtA_HP0nHShjrF6C2160ybDK0b3eVKC3BURGbFPEbuypOhYJXXMTM7T_vL4h2mKnzLINDpyG9bSahxxJOkHxHLv_ytmNnWgJ8jb 
+2019-03-12 15:37:06.109 INFO  updateToken Result : success for abhi 
+2019-03-12 15:43:39.166 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-12 15:43:39.168 INFO  updateToken
+user : abhi
+pass : abhi
+token : evNtpBa676A:APA91bGDZEB4HG1OjVGbLHEA4Bj3OtvVjHH7h2fi-FtA_HP0nHShjrF6C2160ybDK0b3eVKC3BURGbFPEbuypOhYJXXMTM7T_vL4h2mKnzLINDpyG9bSahxxJOkHxHLv_ytmNnWgJ8jb 
+2019-03-12 15:43:39.172 INFO  getAllNotifications Result : success for abhi 
+2019-03-12 15:43:39.175 INFO  updateToken Result : success for abhi 
+2019-03-12 15:43:40.206 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-12 15:43:40.209 INFO  getAllNotifications Result : success for abhi 
+2019-03-12 16:20:54.863 INFO  signIn
+user : text
+pass : text
+token : fcVaDMG5aoU:APA91bG_uJ4HSjlK_QC-VMaCc-rnKCSv0nP0axFU2gvZYfVCxpQ3oBivdRIWzMUHbnkSTaKdBoJY_NIMx3s63gEb_a1isWNMbR9qzSFgFDPsw-bMQSfdIPC054pQ65C0VbGyjq4X-ecM 
+2019-03-12 16:20:54.869 INFO  signIn Result : success for text 
+2019-03-12 16:20:55.026 INFO  getAllNotifications
+user : text
+pass : text 
+2019-03-12 16:20:55.029 INFO  getAllNotifications Result : fail for text 
+2019-03-12 16:20:55.079 INFO  updateToken
+user : text
+pass : text
+token : fcVaDMG5aoU:APA91bG_uJ4HSjlK_QC-VMaCc-rnKCSv0nP0axFU2gvZYfVCxpQ3oBivdRIWzMUHbnkSTaKdBoJY_NIMx3s63gEb_a1isWNMbR9qzSFgFDPsw-bMQSfdIPC054pQ65C0VbGyjq4X-ecM 
+2019-03-12 16:20:55.084 INFO  updateToken Result : success for text 
+2019-03-12 16:20:56.540 INFO  getAllNotifications
+user : text
+pass : text 
+2019-03-12 16:20:56.543 INFO  getAllNotifications Result : fail for text 
+2019-03-12 16:21:06.816 INFO  signIn
+user : text
+pass : text
+token : fcVaDMG5aoU:APA91bG_uJ4HSjlK_QC-VMaCc-rnKCSv0nP0axFU2gvZYfVCxpQ3oBivdRIWzMUHbnkSTaKdBoJY_NIMx3s63gEb_a1isWNMbR9qzSFgFDPsw-bMQSfdIPC054pQ65C0VbGyjq4X-ecM 
+2019-03-12 16:21:06.821 INFO  signIn Result : success for text 
+2019-03-12 16:21:06.944 INFO  getAllNotifications
+user : text
+pass : text 
+2019-03-12 16:21:06.947 INFO  getAllNotifications Result : fail for text 
+2019-03-12 16:21:06.983 INFO  updateToken
+user : text
+pass : text
+token : fcVaDMG5aoU:APA91bG_uJ4HSjlK_QC-VMaCc-rnKCSv0nP0axFU2gvZYfVCxpQ3oBivdRIWzMUHbnkSTaKdBoJY_NIMx3s63gEb_a1isWNMbR9qzSFgFDPsw-bMQSfdIPC054pQ65C0VbGyjq4X-ecM 
+2019-03-12 16:21:06.988 INFO  updateToken Result : success for text 
+2019-03-12 16:21:14.711 INFO  getAllNotifications
+user : text
+pass : text 
+2019-03-12 16:21:14.714 INFO  getAllNotifications Result : fail for text 
+2019-03-12 16:21:14.765 INFO  updateToken
+user : text
+pass : text
+token : fcVaDMG5aoU:APA91bG_uJ4HSjlK_QC-VMaCc-rnKCSv0nP0axFU2gvZYfVCxpQ3oBivdRIWzMUHbnkSTaKdBoJY_NIMx3s63gEb_a1isWNMbR9qzSFgFDPsw-bMQSfdIPC054pQ65C0VbGyjq4X-ecM 
+2019-03-12 16:21:14.770 INFO  updateToken Result : success for text 
+2019-03-12 16:21:18.568 INFO  registerUser
+user : text
+pass : text
+token : fcVaDMG5aoU:APA91bG_uJ4HSjlK_QC-VMaCc-rnKCSv0nP0axFU2gvZYfVCxpQ3oBivdRIWzMUHbnkSTaKdBoJY_NIMx3s63gEb_a1isWNMbR9qzSFgFDPsw-bMQSfdIPC054pQ65C0VbGyjq4X-ecM 
+2019-03-12 16:21:18.571 INFO  registerUser Result : fail for text 
+2019-03-12 16:21:24.027 INFO  registerUser
+user : text
+pass : text
+token : fcVaDMG5aoU:APA91bG_uJ4HSjlK_QC-VMaCc-rnKCSv0nP0axFU2gvZYfVCxpQ3oBivdRIWzMUHbnkSTaKdBoJY_NIMx3s63gEb_a1isWNMbR9qzSFgFDPsw-bMQSfdIPC054pQ65C0VbGyjq4X-ecM 
+2019-03-12 16:21:24.030 INFO  registerUser Result : fail for text 
+2019-03-13 04:40:56.221 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-13 04:40:56.346 INFO  updateToken
+user : abhi
+pass : abhi
+token : evNtpBa676A:APA91bGDZEB4HG1OjVGbLHEA4Bj3OtvVjHH7h2fi-FtA_HP0nHShjrF6C2160ybDK0b3eVKC3BURGbFPEbuypOhYJXXMTM7T_vL4h2mKnzLINDpyG9bSahxxJOkHxHLv_ytmNnWgJ8jb 
+2019-03-13 04:40:56.361 INFO  getAllNotifications Result : success for abhi 
+2019-03-13 04:40:56.368 INFO  updateToken Result : success for abhi 
+2019-03-14 16:57:50.926 INFO  registerUser
+user : qwerty
+pass : Abhishek_007
+token : fgPxE_kcT-k:APA91bEDpd7MRnWaU2nE6X2eZjOHHnvSe4k6bNwMfaqHIObqCWgiwlIpF02naiB8dkgliktRMIZGrnweWXIY0w4ZrfYCfLyLtPO9a-roTrsmYpqkdLnxaYHG6KRABEq0z2XqgQuQGJJn 
+2019-03-14 16:57:51.057 INFO  registerUser Result : success for qwerty 
+2019-03-14 16:57:51.695 INFO  getAllNotifications
+user : qwerty
+pass : Abhishek_007 
+2019-03-14 16:57:51.701 INFO  getAllNotifications Result : fail for qwerty 
+2019-03-14 16:57:52.132 INFO  updateToken
+user : qwerty
+pass : Abhishek_007
+token : fgPxE_kcT-k:APA91bEDpd7MRnWaU2nE6X2eZjOHHnvSe4k6bNwMfaqHIObqCWgiwlIpF02naiB8dkgliktRMIZGrnweWXIY0w4ZrfYCfLyLtPO9a-roTrsmYpqkdLnxaYHG6KRABEq0z2XqgQuQGJJn 
+2019-03-14 16:57:52.140 INFO  updateToken Result : success for qwerty 
+2019-03-14 16:57:57.971 INFO  getAllNotifications
+user : qwerty
+pass : Abhishek_007 
+2019-03-14 16:57:57.975 INFO  getAllNotifications Result : fail for qwerty 
+2019-03-14 17:23:26.741 INFO  signIn
+user : abhi
+pass : abhi
+token : evNtpBa676A:APA91bGDZEB4HG1OjVGbLHEA4Bj3OtvVjHH7h2fi-FtA_HP0nHShjrF6C2160ybDK0b3eVKC3BURGbFPEbuypOhYJXXMTM7T_vL4h2mKnzLINDpyG9bSahxxJOkHxHLv_ytmNnWgJ8jb 
+2019-03-14 17:23:26.751 INFO  signIn Result : success for abhi 
+2019-03-14 17:23:27.197 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-03-14 17:23:27.201 INFO  getAllNotifications Result : success for abhi 
+2019-03-14 17:23:27.521 INFO  updateToken
+user : abhi
+pass : abhi
+token : evNtpBa676A:APA91bGDZEB4HG1OjVGbLHEA4Bj3OtvVjHH7h2fi-FtA_HP0nHShjrF6C2160ybDK0b3eVKC3BURGbFPEbuypOhYJXXMTM7T_vL4h2mKnzLINDpyG9bSahxxJOkHxHLv_ytmNnWgJ8jb 
+2019-03-14 17:23:27.526 INFO  updateToken Result : success for abhi 
+2019-03-14 17:23:55.020 INFO  signIn
+user : abhishek
+pass : deshpande
+token : evNtpBa676A:APA91bGDZEB4HG1OjVGbLHEA4Bj3OtvVjHH7h2fi-FtA_HP0nHShjrF6C2160ybDK0b3eVKC3BURGbFPEbuypOhYJXXMTM7T_vL4h2mKnzLINDpyG9bSahxxJOkHxHLv_ytmNnWgJ8jb 
+2019-03-14 17:23:55.023 INFO  signIn Result : fail for abhishek 
+2019-03-14 17:24:01.983 INFO  signIn
+user : abhishek
+pass : deshpande
+token : evNtpBa676A:APA91bGDZEB4HG1OjVGbLHEA4Bj3OtvVjHH7h2fi-FtA_HP0nHShjrF6C2160ybDK0b3eVKC3BURGbFPEbuypOhYJXXMTM7T_vL4h2mKnzLINDpyG9bSahxxJOkHxHLv_ytmNnWgJ8jb 
+2019-03-14 17:24:01.985 INFO  signIn Result : fail for abhishek 
+2019-03-14 17:24:14.375 INFO  registerUser
+user : abhishek
+pass : deshpande
+token : evNtpBa676A:APA91bGDZEB4HG1OjVGbLHEA4Bj3OtvVjHH7h2fi-FtA_HP0nHShjrF6C2160ybDK0b3eVKC3BURGbFPEbuypOhYJXXMTM7T_vL4h2mKnzLINDpyG9bSahxxJOkHxHLv_ytmNnWgJ8jb 
+2019-03-14 17:24:14.378 INFO  registerUser Result : fail for abhishek 
+2019-03-26 18:50:22.666 INFO  registerUser
+user : ashley
+pass : XE500C13-K04US
+token : eT1fhQnhHNQ:APA91bGmYnqmAc56ivUxxQIc5RZI1JE-MenE2QlDoaXZbvUmh21i0K1UkweAOeZj8OYTKyfrjLVLed0qsVHELO8GF_5NrOZEXMxkAY-JwV1S6XLdeeQ1P2CpGGClC_duWZMWKiAtA53m 
+2019-03-26 18:50:22.854 INFO  registerUser Result : success for ashley 
+2019-03-26 18:50:23.512 INFO  getAllNotifications
+user : ashley
+pass : XE500C13-K04US 
+2019-03-26 18:50:23.518 INFO  getAllNotifications Result : fail for ashley 
+2019-03-26 18:50:23.596 INFO  updateToken
+user : ashley
+pass : XE500C13-K04US
+token : eT1fhQnhHNQ:APA91bGmYnqmAc56ivUxxQIc5RZI1JE-MenE2QlDoaXZbvUmh21i0K1UkweAOeZj8OYTKyfrjLVLed0qsVHELO8GF_5NrOZEXMxkAY-JwV1S6XLdeeQ1P2CpGGClC_duWZMWKiAtA53m 
+2019-03-26 18:50:23.605 INFO  updateToken Result : success for ashley 
+2019-04-03 18:38:18.524 INFO  signIn
+user : abhi
+pass : abhi
+token : evNtpBa676A:APA91bGDZEB4HG1OjVGbLHEA4Bj3OtvVjHH7h2fi-FtA_HP0nHShjrF6C2160ybDK0b3eVKC3BURGbFPEbuypOhYJXXMTM7T_vL4h2mKnzLINDpyG9bSahxxJOkHxHLv_ytmNnWgJ8jb 
+2019-04-03 18:38:18.700 INFO  signIn Result : success for abhi 
+2019-04-03 18:38:20.208 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-04-03 18:38:20.214 INFO  getAllNotifications Result : success for abhi 
+2019-04-03 18:38:20.556 INFO  updateToken
+user : abhi
+pass : abhi
+token : evNtpBa676A:APA91bGDZEB4HG1OjVGbLHEA4Bj3OtvVjHH7h2fi-FtA_HP0nHShjrF6C2160ybDK0b3eVKC3BURGbFPEbuypOhYJXXMTM7T_vL4h2mKnzLINDpyG9bSahxxJOkHxHLv_ytmNnWgJ8jb 
+2019-04-03 18:38:20.563 INFO  updateToken Result : success for abhi 
+2019-04-03 18:38:37.882 INFO  signIn
+user : abhi
+pass : abhi
+token : evNtpBa676A:APA91bGDZEB4HG1OjVGbLHEA4Bj3OtvVjHH7h2fi-FtA_HP0nHShjrF6C2160ybDK0b3eVKC3BURGbFPEbuypOhYJXXMTM7T_vL4h2mKnzLINDpyG9bSahxxJOkHxHLv_ytmNnWgJ8jb 
+2019-04-03 18:38:37.888 INFO  signIn Result : success for abhi 
+2019-04-03 18:38:39.680 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-04-03 18:38:39.684 INFO  getAllNotifications Result : success for abhi 
+2019-04-03 18:38:40.641 INFO  updateToken
+user : abhi
+pass : abhi
+token : evNtpBa676A:APA91bGDZEB4HG1OjVGbLHEA4Bj3OtvVjHH7h2fi-FtA_HP0nHShjrF6C2160ybDK0b3eVKC3BURGbFPEbuypOhYJXXMTM7T_vL4h2mKnzLINDpyG9bSahxxJOkHxHLv_ytmNnWgJ8jb 
+2019-04-03 18:38:40.646 INFO  updateToken Result : success for abhi 
+2019-04-08 14:40:37.579 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-04-08 14:40:37.735 INFO  updateToken
+user : abhi
+pass : abhi
+token : evNtpBa676A:APA91bGDZEB4HG1OjVGbLHEA4Bj3OtvVjHH7h2fi-FtA_HP0nHShjrF6C2160ybDK0b3eVKC3BURGbFPEbuypOhYJXXMTM7T_vL4h2mKnzLINDpyG9bSahxxJOkHxHLv_ytmNnWgJ8jb 
+2019-04-08 14:40:37.750 INFO  getAllNotifications Result : success for abhi 
+2019-04-08 14:40:37.759 INFO  updateToken Result : success for abhi 
+2019-04-10 14:28:34.645 INFO  getAllNotifications
+user : abhi
+pass : abhi 
+2019-04-10 14:28:34.759 INFO  updateToken
+user : abhi
+pass : abhi
+token : evNtpBa676A:APA91bGDZEB4HG1OjVGbLHEA4Bj3OtvVjHH7h2fi-FtA_HP0nHShjrF6C2160ybDK0b3eVKC3BURGbFPEbuypOhYJXXMTM7T_vL4h2mKnzLINDpyG9bSahxxJOkHxHLv_ytmNnWgJ8jb 
+2019-04-10 14:28:34.774 INFO  getAllNotifications Result : success for abhi 
+2019-04-10 14:28:34.794 INFO  updateToken Result : success for abhi 
